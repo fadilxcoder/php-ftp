@@ -1,9 +1,9 @@
 <?php
 
-$host       = "";
-$user       = "";
-$password   = "";
-$local      = "local.txt";
+$host       = "ftp-fadilxcoder.alwaysdata.net";
+$user       = "fadilxcoder";
+$password   = "xQEJkDS5pPgQ";
+$local      = "downloaded/local.txt";
 $server     = "www/server.txt";
 
 # Connect to HOST

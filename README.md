@@ -1,5 +1,9 @@
 # Notes
 
+- RUN : `php script.php`
+- Server file found on `www/server.txt` will be downloaded into `downloaded/local.txt`
+
+# Docs
 - https://www.w3schools.com/php/php_ref_ftp.asp (PHP FTP Functions)
 
 ```
