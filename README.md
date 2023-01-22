@@ -3,20 +3,6 @@
 - RUN : `php script.php`
 - Server file found on `www/server.txt` will be downloaded into `downloaded/local.txt`
 
-```bash
-C:\wamp64\www\php-ftp\script.php:28:
-array(2) {
-  [0] =>
-  string(5) "admin"
-  [1] =>
-  string(3) "www"
-}
-
-Saved file : downloaded/local.txt
-
-Successfully uploaded : Resource id #5
-```
-
 # Docs
 - https://www.w3schools.com/php/php_ref_ftp.asp (PHP FTP Functions)
 - https://flysystem.thephpleague.com/docs/ (File Storage Abstraction for PHP)
